@@ -1,0 +1,12 @@
+.loading {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #121212;
+}
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin: 1rem 0;
+}
